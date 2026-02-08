@@ -11,8 +11,10 @@ SUPABASE_SERVICE_KEY = os.getenv("SUPABASE_SERVICE_KEY", "your-service-key")
 JWT_SECRET = os.getenv("JWT_SECRET", "your-jwt-secret")
 JWT_ALGORITHM = "HS256"
 
+# Use SQLite by default for easy local development (no credentials needed)
+# Set DATABASE_URL env var to use PostgreSQL/Supabase in production
 DATABASE_URL = os.getenv(
-    "DATABASE_URL", "postgresql://postgres:password@localhost:5432/bvmt"
+    "DATABASE_URL", "sqlite:///./kanz.db"
 )
 
 class UserRole:

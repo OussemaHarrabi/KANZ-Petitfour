@@ -47,6 +47,9 @@ def _read_csv(file_path: Path) -> pd.DataFrame:
 def _normalize(df: pd.DataFrame) -> pd.DataFrame:
     df = df.copy()
     df.columns = [col.strip().upper() for col in df.columns]
+    
+    df = df.loc[:, ~df.columns.duplicated()]
+    
     missing = [col for col in EXPECTED_COLUMNS if col not in df.columns]
     if missing:
         raise ValueError(f"Missing columns: {missing}")
