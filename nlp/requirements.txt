@@ -1,0 +1,23 @@
+# NLP Requirements for BVMT Sentiment Analysis
+# Install with: pip install -r requirements.txt
+
+# Web Scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# NLP & Sentiment
+transformers>=4.35.0
+torch>=2.0.0
+sentencepiece>=0.1.99
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Caching
+diskcache>=5.6.0
+
+# Optional: Arabic NLP
+# arabert>=1.0.0
+# camel-tools>=1.5.0

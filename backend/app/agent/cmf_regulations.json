@@ -1,0 +1,99 @@
+{
+  "cmf_regulations": [
+    {
+      "id": "reg_001",
+      "title": "Publication des informations privilegiees",
+      "title_ar": "نشر المعلومات المميزة",
+      "content": "Toute societe cotee en bourse doit publier immediatement toute information privilegiee susceptible d'influencer le cours de ses titres. Le delai maximum est de 24 heures apres la connaissance de l'information par les dirigeants.",
+      "content_ar": "يجب على كل شركة مدرجة في البورصة نشر أي معلومات مميزة قد تؤثر على سعر أوراقها المالية فورا. الحد الأقصى هو 24 ساعة بعد علم المديرين بالمعلومة.",
+      "category": "transparency",
+      "penalty": "Amende de 10,000 a 100,000 TND"
+    },
+    {
+      "id": "reg_002", 
+      "title": "Delit d'initie",
+      "title_ar": "التداول بناء على معلومات داخلية",
+      "content": "Il est interdit a toute personne disposant d'informations privilegiees d'effectuer des operations sur les titres concernes. Cette interdiction s'applique aux dirigeants, employes, et toute personne ayant acces a ces informations.",
+      "content_ar": "يحظر على أي شخص يمتلك معلومات داخلية إجراء عمليات على الأوراق المالية المعنية. ينطبق هذا الحظر على المديرين والموظفين وأي شخص لديه حق الوصول إلى هذه المعلومات.",
+      "category": "insider_trading",
+      "penalty": "Emprisonnement de 1 a 5 ans et amende de 10,000 a 200,000 TND"
+    },
+    {
+      "id": "reg_003",
+      "title": "Declaration de franchissement de seuils",
+      "title_ar": "إعلان تجاوز العتبات",
+      "content": "Tout actionnaire qui franchit les seuils de 5%, 10%, 20%, 33%, 50% ou 66% du capital d'une societe cotee doit le declarer au CMF dans les 5 jours ouvrables.",
+      "content_ar": "يجب على أي مساهم يتجاوز عتبات 5% أو 10% أو 20% أو 33% أو 50% أو 66% من رأس مال شركة مدرجة الإعلان عن ذلك لهيئة السوق المالية في غضون 5 أيام عمل.",
+      "category": "disclosure",
+      "penalty": "Amende de 5,000 a 50,000 TND"
+    },
+    {
+      "id": "reg_004",
+      "title": "Manipulation de cours",
+      "title_ar": "التلاعب بالأسعار",
+      "content": "Sont interdites toutes manouvres ayant pour objet d'entraver le fonctionnement regulier du marche ou d'induire les investisseurs en erreur. Cela inclut les ordres fictifs, les transactions croisees artificielles, et la diffusion de fausses informations.",
+      "content_ar": "يحظر أي مناورات تهدف إلى إعاقة السير العادي للسوق أو تضليل المستثمرين. ويشمل ذلك الأوامر الوهمية والمعاملات المتقاطعة المصطنعة ونشر معلومات كاذبة.",
+      "category": "market_manipulation",
+      "penalty": "Emprisonnement de 2 a 5 ans et amende de 20,000 a 500,000 TND"
+    },
+    {
+      "id": "reg_005",
+      "title": "Offre publique d'achat (OPA)",
+      "title_ar": "عرض الشراء العام",
+      "content": "Tout actionnaire qui envisage d'acquerir plus de 40% du capital d'une societe cotee doit lancer une offre publique d'achat sur la totalite des titres. L'offre doit etre approuvee par le CMF avant publication.",
+      "content_ar": "يجب على أي مساهم ينوي الاستحواذ على أكثر من 40% من رأس مال شركة مدرجة إطلاق عرض شراء عام على جميع الأوراق المالية. يجب الموافقة على العرض من قبل هيئة السوق المالية قبل النشر.",
+      "category": "takeover",
+      "penalty": "Nullite de l'operation et amende"
+    },
+    {
+      "id": "reg_006",
+      "title": "Rapports financiers periodiques",
+      "title_ar": "التقارير المالية الدورية",
+      "content": "Les societes cotees doivent publier: rapport annuel dans les 4 mois suivant la cloture de l'exercice, rapport semestriel dans les 2 mois, et indicateurs trimestriels d'activite dans les 45 jours.",
+      "content_ar": "يجب على الشركات المدرجة نشر: التقرير السنوي في غضون 4 أشهر من نهاية السنة المالية، التقرير نصف السنوي في غضون شهرين، والمؤشرات الفصلية للنشاط في غضون 45 يوما.",
+      "category": "reporting",
+      "penalty": "Amende et suspension de cotation"
+    },
+    {
+      "id": "reg_007",
+      "title": "Gouvernance d'entreprise",
+      "title_ar": "حوكمة الشركات",
+      "content": "Les societes cotees doivent disposer d'un conseil d'administration avec au moins 3 administrateurs independants. Un comite d'audit est obligatoire pour les societes dont la capitalisation depasse 10 millions TND.",
+      "content_ar": "يجب أن يكون لدى الشركات المدرجة مجلس إدارة يضم 3 أعضاء مستقلين على الأقل. لجنة التدقيق إلزامية للشركات التي تتجاوز قيمتها السوقية 10 ملايين دينار.",
+      "category": "governance",
+      "penalty": "Avertissement public et amende"
+    },
+    {
+      "id": "reg_008",
+      "title": "Suspension de cotation",
+      "title_ar": "تعليق التداول",
+      "content": "Le CMF peut suspendre la cotation d'un titre en cas de: variation anormale des cours, defaut d'information, demande de la societe pour communiquer une information importante, ou enquete en cours.",
+      "content_ar": "يمكن لهيئة السوق المالية تعليق تداول ورقة مالية في حالة: تغير غير طبيعي في الأسعار، عدم الإفصاح، طلب الشركة للإعلان عن معلومات مهمة، أو وجود تحقيق جار.",
+      "category": "trading_halt",
+      "penalty": "N/A - Mesure de protection"
+    },
+    {
+      "id": "reg_009",
+      "title": "Limites de variation des cours",
+      "title_ar": "حدود تغير الأسعار",
+      "content": "La variation maximale autorisee par seance est de 3% pour les actions du marche principal. En cas de depassement, le titre est suspendu temporairement. Des reservations a la hausse ou a la baisse peuvent etre declenchees.",
+      "content_ar": "الحد الأقصى المسموح به للتغير في الجلسة الواحدة هو 3% لأسهم السوق الرئيسي. في حالة التجاوز، يتم تعليق السهم مؤقتا. يمكن تفعيل تحفظات صعودية أو هبوطية.",
+      "category": "price_limits",
+      "penalty": "Suspension automatique"
+    },
+    {
+      "id": "reg_010",
+      "title": "Protection des investisseurs",
+      "title_ar": "حماية المستثمرين",
+      "content": "Les intermediaires en bourse doivent evaluer le profil de risque de chaque client et s'assurer que les investissements proposes sont adaptes. Un document d'information doit etre remis avant toute souscription.",
+      "content_ar": "يجب على الوسطاء تقييم ملف المخاطر لكل عميل والتأكد من ملاءمة الاستثمارات المقترحة. يجب تسليم وثيقة معلومات قبل أي اكتتاب.",
+      "category": "investor_protection",
+      "penalty": "Retrait d'agrement"
+    }
+  ],
+  "metadata": {
+    "source": "Conseil du Marche Financier (CMF) - Tunisie",
+    "last_updated": "2024-01-01",
+    "language": ["fr", "ar"]
+  }
+}
