@@ -22,7 +22,7 @@
 
 Tunisia has one of the lowest retail investor participation rates in the MENA region. Young Tunisians, despite having savings, avoid the stock market due to:
 
-- **Fear of Loss**: Complex financial jargon and unpredictable markets create anxiety
+- **Fear of Loss**: Unpredictable markets and complex financial jargon create anxiety
 - **Lack of Guidance**: No accessible tools to help beginners understand when to buy/sell
 - **Information Overload**: News in multiple languages (French/Arabic) with no clear signal
 - **Trust Issues**: Concerns about market manipulation and unfair practices
